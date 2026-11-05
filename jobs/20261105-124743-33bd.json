@@ -1,0 +1,15 @@
+{
+  "id": "20261105-124743-33bd",
+  "created": "2026-11-05T12:47:43Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 6.58-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated, cel shaded with flat colors and thick black inked outlines, a near-monochrome palette of charcoal and slate greys where only the off-white horns and the pale beige stitches break the grey, on a plain pure-white background. The tall, thin demon girl shown in <Picture 1> stands in the same full-body framing, preserving her dark charcoal-grey speckled skin crossed by rows of beige stitched seams and faint pinkish-brown scars on her torso, arms and legs, her floor-length straight black hair with blunt bangs covering one eye, the single white pupil in her black eye, her pointed ears, the pair of curved off-white horns with a small grey bow, her long clawed fingers and her clawed bare feet. She stays in place in a relaxed standing idle. She breathes slowly so her chest and shoulders rise and fall gently, shifts her weight slightly onto one foot and back, and her fingers flex a little; loose hair sways softly. Her feet stay planted and she does not walk, turn or change her pose, returning to exactly her starting stance at the end. The camera stays completely static throughout, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts.\n\noverall_soundscape: A quiet, still room tone with slow, soft breathing and the faint rustle of hair.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 158,
+  "seconds": 6.58,
+  "width": 544,
+  "height": 960,
+  "steps": 50,
+  "seed": 1393565449,
+  "first_frame": "20261105-124743-33bd--1--sprite.png",
+  "last_frame": "20261105-124743-33bd--2--sprite.png",
+  "references": []
+}
