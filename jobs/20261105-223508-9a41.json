@@ -1,0 +1,15 @@
+{
+  "id": "20261105-223508-9a41",
+  "created": "2026-11-05T22:35:08Z",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated, cel shaded with flat colors and thick black inked outlines, a near-monochrome palette of charcoal and slate greys where only the off-white horns and the pale beige stitches break the grey, on a plain pure-white background. The tall, thin demon girl shown in <Picture 1> stands in the same full-body framing, preserving her dark charcoal-grey speckled skin crossed by rows of beige stitched seams and faint pinkish-brown scars on her torso, arms and legs, her floor-length straight black hair with blunt bangs covering one eye, the single white pupil in her black eye, her pointed ears, the pair of curved off-white horns with a small grey bow, her long clawed fingers and her clawed bare feet. She runs forward in the direction she is facing at a fast, steady pace in a continuous run cycle, leaning slightly forward, knees driving high, arms pumping in opposition to her legs, both feet briefly leaving the ground on each stride, hair streaming behind her. She keeps running at the same speed for the whole shot without stopping or turning. The camera tracks with her at the same speed she moves, keeping her full body centered in frame from head to feet throughout, so the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts.\n\noverall_soundscape: Quick, rhythmic footfalls on a hard floor, fast breathing and hair whipping in the air.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 158,
+  "seconds": 6.58,
+  "width": 960,
+  "height": 544,
+  "steps": 50,
+  "seed": 897408664,
+  "first_frame": "20261105-223508-9a41--1--960x544.png",
+  "last_frame": null,
+  "references": []
+}
