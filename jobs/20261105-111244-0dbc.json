@@ -1,0 +1,15 @@
+{
+  "id": "20261105-111244-0dbc",
+  "created": "2026-11-05T11:12:44Z",
+  "prompt": "integrated_multimodal_description: [Shot 1] Cinematic live-action nature footage with natural soft morning light and a shallow depth of field. A red fox with a thick winter coat steps out from between snow-laden pine trunks onto an open clearing of fresh, untouched snow, its breath forming small white clouds in the cold air. Fine snowflakes drift slowly down through low, pale golden sunlight that slants in from frame right and catches the fox's orange fur and white chest. The camera tracks with the fox at slow speed, holding it in a medium-wide shot at the fox's eye level, close to the snow surface. The fox pauses, lifts its head, and swivels its ears toward a sound off-screen to the left. It lowers its front body, tail held level behind it, then springs upward in a high arc and dives nose-first into the snow, sending up a bright spray of powder that sparkles in the sunlight. It surfaces a moment later with snow clinging to its muzzle and shakes its head briskly, flicking loose snow from its ears.\n\noverall_soundscape: A quiet, still winter forest with a faint breeze in the pine branches. Soft crunching paw steps on fresh snow, the fox's short sharp breaths, a muffled thump and hiss of powder as it dives, and a quick rustle as it shakes the snow off.\n\nnon_diegetic_music: N/A",
+  "mode": "t2va",
+  "num_frames": 124,
+  "seconds": 5.17,
+  "width": 960,
+  "height": 544,
+  "steps": 50,
+  "seed": 620659267,
+  "first_frame": null,
+  "last_frame": null,
+  "references": []
+}
