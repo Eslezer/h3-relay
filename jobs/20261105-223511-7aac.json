@@ -1,0 +1,15 @@
+{
+  "id": "20261105-223511-7aac",
+  "created": "2026-11-05T22:35:11Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 5.17-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated, cel shaded with flat colors and thick black inked outlines, a near-monochrome palette of charcoal and slate greys where only the off-white horns and the pale beige stitches break the grey, on a plain pure-white background. The tall, thin demon girl shown in <Picture 1> stands in the same full-body framing, preserving her dark charcoal-grey speckled skin crossed by rows of beige stitched seams and faint pinkish-brown scars on her torso, arms and legs, her floor-length straight black hair with blunt bangs covering one eye, the single white pupil in her black eye, her pointed ears, the pair of curved off-white horns with a small grey bow, her long clawed fingers and her clawed bare feet. She stays in place and performs one fast attack: she draws back her right arm, then lunges half a step forward and slashes through the air in front of her with her clawed hand in a sharp, sweeping strike, then pulls back and settles into exactly her starting stance. The camera stays completely static throughout, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts.\n\noverall_soundscape: A sharp whoosh of the strike cutting the air and a scuff of her foot on the floor.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 124,
+  "seconds": 5.17,
+  "width": 960,
+  "height": 544,
+  "steps": 50,
+  "seed": 413331655,
+  "first_frame": "20261105-223511-7aac--1--960x544.png",
+  "last_frame": "20261105-223511-7aac--2--960x544.png",
+  "references": []
+}
