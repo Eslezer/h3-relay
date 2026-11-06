@@ -1,0 +1,15 @@
+{
+  "id": "20261106-054436-0c3b",
+  "created": "2026-11-06T05:44:36Z",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small chibi girl with an oversized head shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her shoulder-length red hair with blunt bangs and a long zigzag braid hanging behind her, her large yellow-orange eyes drawn as concentric spiral rings, her faint calm smile, her cream long-sleeved collared shirt with rolled cuffs, her dark green necktie, her wide dark teal trousers and her brown lace-up shoes. She flies into an invisible wall at the side of the frame and smacks flat against it with a comic impact, squashed for a moment, then slides down and drops onto the floor, ending sprawled on her back. The camera stays completely static throughout, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts.\n\noverall_soundscape: A loud comic smack, a squeak, then a thud on the floor.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 124,
+  "seconds": 5.17,
+  "width": 1344,
+  "height": 768,
+  "steps": 50,
+  "seed": 393579510,
+  "first_frame": "20261106-054436-0c3b--1--start_hit.png",
+  "last_frame": null,
+  "references": []
+}
