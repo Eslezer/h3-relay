@@ -1,0 +1,15 @@
+{
+  "id": "20261106-015958-7ec4",
+  "created": "2026-11-06T01:59:58Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 8.00-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a plain pure-white background. The small chibi girl with an oversized head shown in <Picture 1> stands in the same full-body framing, preserving her shoulder-length red hair with blunt bangs and a long zigzag braid hanging behind her, her large yellow-orange eyes drawn as concentric spiral rings, her faint calm smile, her cream long-sleeved collared shirt with rolled cuffs, her dark green necktie, her wide dark teal trousers and her brown lace-up shoes. She does a cheerful little dance on the spot, stepping side to side to a steady beat and swaying her arms and shoulders in rhythm, and comes back to her starting stance at the end. Her expressions and body language stay true to her personality: calm, composed and quietly confident, with a faint knowing smile; even her big reactions stay a little restrained. The camera stays completely static throughout, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts.\n\noverall_soundscape: Light rhythmic footsteps on the floor in a steady beat.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 192,
+  "seconds": 8.0,
+  "width": 544,
+  "height": 960,
+  "steps": 50,
+  "seed": 1497143286,
+  "first_frame": "20261106-015958-7ec4--1--544x960.png",
+  "last_frame": "20261106-015958-7ec4--2--544x960.png",
+  "references": []
+}
