@@ -1,6 +1,9 @@
 {
   "id": "20261106-044130-b209",
   "worker": "a603fbc2-578d-4aa4-ae3b-d47eb8d200e4-twhs8-1793935368",
-  "state": "running",
-  "started": "2026-11-06T05:28:37Z"
+  "state": "done",
+  "finished": "2026-11-06T05:43:14Z",
+  "output": "20261106-044130-b209.mp4",
+  "bytes": 2021375,
+  "batch_seconds": 866
 }
