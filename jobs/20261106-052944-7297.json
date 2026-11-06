@@ -1,0 +1,15 @@
+{
+  "id": "20261106-052944-7297",
+  "created": "2026-11-06T05:29:44Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 6.58-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small chibi girl with an oversized head shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her shoulder-length red hair with blunt bangs and a long zigzag braid hanging behind her, her large yellow-orange eyes drawn as concentric spiral rings, her faint calm smile, her cream long-sleeved collared shirt with rolled cuffs, her dark green necktie, her wide dark teal trousers and her brown lace-up shoes. She is falling: she stays in the middle of the frame while her hair, braid and clothes stream straight upward as if wind is rushing up past her, her arms and legs flail in panic and her eyes go wide. She does not move up or down in the frame, and ends in exactly her starting pose. The camera stays completely static throughout, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts.\n\noverall_soundscape: Rushing wind and fluttering clothes, with a short panicked yelp.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 158,
+  "seconds": 6.58,
+  "width": 1344,
+  "height": 768,
+  "steps": 50,
+  "seed": 1392656376,
+  "first_frame": "20261106-052944-7297--1--start_fall.png",
+  "last_frame": "20261106-052944-7297--2--start_fall.png",
+  "references": []
+}
