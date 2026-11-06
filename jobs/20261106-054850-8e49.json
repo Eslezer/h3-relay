@@ -1,0 +1,15 @@
+{
+  "id": "20261106-054850-8e49",
+  "created": "2026-11-06T05:48:50Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 7.29-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small chibi girl with an oversized head shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her shoulder-length red hair with blunt bangs and a long zigzag braid hanging behind her, her large yellow-orange eyes drawn as concentric spiral rings, her faint calm smile, her cream long-sleeved collared shirt with rolled cuffs, her dark green necktie, her wide dark teal trousers and her brown lace-up shoes. She trips mid-run, stumbles forward and falls flat on her face on the floor with a comic thud, lies sprawled for a moment, then pushes herself up, brushes herself off and turns to face the viewer, ending in exactly the standing pose of the base sprite. The camera tracks with her at the same speed she moves, keeping her full body centered in frame from head to feet throughout, so the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts.\n\noverall_soundscape: Running footsteps, a stumble, a comic thud, a muffled groan, then shuffling as she gets up.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 175,
+  "seconds": 7.29,
+  "width": 960,
+  "height": 544,
+  "steps": 50,
+  "seed": 1007466320,
+  "first_frame": "20261106-054850-8e49--1--start_faceplant.png",
+  "last_frame": "20261106-054850-8e49--2--960x544-green.png",
+  "references": []
+}
