@@ -1,6 +1,9 @@
 {
   "id": "20261106-054942-cebc",
   "worker": "e421eb60-c07e-4620-82f4-0cc318c5c603-d88p9-1793964741",
-  "state": "running",
-  "started": "2026-11-06T14:24:52Z"
+  "state": "done",
+  "finished": "2026-11-06T14:36:23Z",
+  "output": "20261106-054942-cebc.mp4",
+  "bytes": 545577,
+  "batch_seconds": 681
 }
