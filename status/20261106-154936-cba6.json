@@ -1,6 +1,9 @@
 {
   "id": "20261106-154936-cba6",
   "worker": "70798470-44b7-4eef-bd86-147afa9235f3-zzp85-1793985158",
-  "state": "running",
-  "started": "2026-11-06T17:13:06Z"
+  "state": "done",
+  "finished": "2026-11-06T17:52:01Z",
+  "output": "20261106-154936-cba6.mp4",
+  "bytes": 456907,
+  "batch_seconds": 2328
 }
