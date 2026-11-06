@@ -1,0 +1,15 @@
+{
+  "id": "20261106-152050-2461",
+  "created": "2026-11-06T15:20:50Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 5.17-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small chibi girl with an oversized head shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her shoulder-length red hair with blunt bangs and a long zigzag braid hanging behind her, her large yellow-orange eyes drawn as concentric spiral rings, her faint calm smile, her cream long-sleeved collared shirt with rolled cuffs, her dark green necktie, her wide dark teal trousers and her brown lace-up shoes. She is being carried along by the back of her collar and the grip moves quickly to the left, so her body swings out to the right behind it, legs trailing and hair streaming, then swings back to hang straight, ending in exactly her starting pose. The camera stays completely static throughout, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts. Show only the character's physical motion and expressions. No visual effects, overlays, particles, motion blur, speed lines, impact marks, text or floating symbols.\n\noverall_soundscape: Silence throughout. No dialogue, vocals, ambience or sound effects.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 124,
+  "seconds": 5.17,
+  "width": 1344,
+  "height": 768,
+  "steps": 50,
+  "seed": 1469918184,
+  "first_frame": "20261106-152050-2461--1--start_drag_right.png",
+  "last_frame": "20261106-152050-2461--2--start_drag_right.png",
+  "references": []
+}
