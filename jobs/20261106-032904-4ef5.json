@@ -1,0 +1,15 @@
+{
+  "id": "20261106-032904-4ef5",
+  "created": "2026-11-06T03:29:04Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 5.17-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a plain pure-white background. The small chibi girl with an oversized head shown in <Picture 1> stands in the same full-body framing, preserving her shoulder-length red hair with blunt bangs and a long zigzag braid hanging behind her, her large yellow-orange eyes drawn as concentric spiral rings, her faint calm smile, her cream long-sleeved collared shirt with rolled cuffs, her dark green necktie, her wide dark teal trousers and her brown lace-up shoes. She crouches, springs straight up in place into a high jump with her legs tucked, hangs at the top for a moment, then lands on both feet, absorbs the landing by bending her knees, and straightens back into exactly her starting stance. The camera stays completely static throughout, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts.\n\noverall_soundscape: A scuff as she pushes off, a brief whoosh of air, then a solid landing thud.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 124,
+  "seconds": 5.17,
+  "width": 544,
+  "height": 960,
+  "steps": 50,
+  "seed": 1485684480,
+  "first_frame": "20261106-032904-4ef5--1--544x960-h30.png",
+  "last_frame": "20261106-032904-4ef5--2--544x960-h30.png",
+  "references": []
+}
