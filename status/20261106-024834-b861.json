@@ -1,6 +1,7 @@
 {
   "id": "20261106-024834-b861",
   "worker": "56e207dc-0406-43b1-8002-cd5a1d7b3134-5qmgn-1793933003",
-  "state": "running",
-  "started": "2026-11-06T02:48:46Z"
+  "state": "error",
+  "finished": "2026-11-06T02:48:54Z",
+  "error": "Traceback (most recent call last):\n  File \"/tmp/marimo_16947/__marimo__cell_SFPL_.py\", line 103, in run_worker\n    engine.run_batch(batch, on_result)\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"/tmp/marimo_16947/__marimo__cell_PKri_.py\", line 117, in run_batch\n    self._ensure(\"text_encoder\")\n    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"/tmp/marimo_16947/__marimo__cell_PKri_.py\", line 78, in _ensure\n    raise RuntimeError(f\"failed to load {name}: see the warnings above\")\nRuntimeError: failed to load text_encoder: see the warnings above\n"
 }
