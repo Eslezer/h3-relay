@@ -1,0 +1,15 @@
+{
+  "id": "20261107-161613-5328",
+  "created": "2026-11-07T16:16:13Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 7.29-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small chibi girl with an oversized head shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her shoulder-length red hair with blunt bangs and a long zigzag braid hanging behind her, her large yellow-orange eyes drawn as concentric spiral rings, her faint calm smile, her cream long-sleeved collared shirt with rolled cuffs, her dark green necktie, her wide dark teal trousers and her brown lace-up shoes. She does this in two timed parts. From 0 to 1.5 seconds: she sits down and lies back until she is flat on her back with her head at the right of the frame and her feet at the left, exactly as in <Picture 2>. From 1.5 to 7.1 seconds: she stays lying there fast asleep with her eyes closed, her chest rising and falling slowly and evenly, and does not move from that spot. She ends in exactly the pose of <Picture 2>. The camera stays completely static throughout, with no zoom or pan, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts. Show only the character's physical motion and expressions. No visual effects, overlays, particles, motion blur, speed lines, impact marks, text or floating symbols. No shadow on the floor or behind her, and no floor line, wall line or other surface is drawn.\n\noverall_soundscape: Silence throughout. No dialogue, vocals, ambience or sound effects.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 175,
+  "seconds": 7.29,
+  "width": 1344,
+  "height": 768,
+  "steps": 50,
+  "seed": 1358747825,
+  "first_frame": "20261107-161613-5328--1--1344x768-m17-green.png",
+  "last_frame": "20261107-161613-5328--2--end_nap.png",
+  "references": []
+}
