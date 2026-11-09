@@ -1,0 +1,15 @@
+{
+  "id": "20261109-162145-605b",
+  "created": "2026-11-09T16:21:45Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 5.17-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small chibi fox girl shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her tall white fox ears, the back of her chin-length white bob with red tassel ties, her nine fluffy lavender fox tails fanned out behind her, the back of her purple kimono with its large mustard obi bow, her white tabi socks and dark sandals. She stands with her back to the viewer for the entire shot, her feet planted. She lifts her right arm, the one on the right side of the picture, forward and a little out to the side until her hand is at shoulder height, taps the air in front of her twice with one fingertip as if pressing a button on a glass screen, then lowers her arm back to her side. Only that arm moves; her head, hair and body stay exactly as they are. She ends in exactly her starting pose. She keeps her back to the viewer for the entire shot: only the back of her head and hair are visible, her face is never shown, and she never turns around, turns her head or looks over her shoulder. The camera stays completely static throughout, with no zoom or pan, framing her full body from head to feet, and the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts. Show only the character's physical motion and expressions. No visual effects, overlays, particles, motion blur, speed lines, impact marks, text or floating symbols. No shadow on the floor or behind her, and no floor line, wall line or other surface is drawn.\n\noverall_soundscape: Silence throughout. No dialogue, vocals, ambience or sound effects.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 124,
+  "seconds": 5.17,
+  "width": 544,
+  "height": 960,
+  "steps": 50,
+  "seed": 386115483,
+  "first_frame": "20261109-162145-605b--1--start_click.png",
+  "last_frame": "20261109-162145-605b--2--start_click.png",
+  "references": []
+}
