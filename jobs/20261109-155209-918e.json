@@ -1,0 +1,15 @@
+{
+  "id": "20261109-155209-918e",
+  "created": "2026-11-09T15:52:09Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 8.00-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small chibi fox girl shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her tall white fox ears with purple insides, her chin-length white bob with blunt bangs, her purple spiral eyes and faint smile, her red tassel hair ties, her nine fluffy lavender fox tails fanned out behind her, her purple kimono with a mustard obi and red cord, her white tabi socks and dark sandals. She does this in three timed parts. From 0 to 1.4 seconds: she turns to face the left side of the frame and breaks into a run. From 1.4 to 6.6 seconds: she runs toward the left in a clean side view at a fast, steady pace in a continuous run cycle, leaning forward, arms pumping, both feet briefly leaving the ground on each stride, hair streaming behind her. She keeps the same pace the whole time. From 6.6 to 8.0 seconds: she skids to a stop, catches her breath and turns to face the viewer, ending in exactly the pose of the base sprite. The camera tracks with her at the same speed she moves, keeping her full body centered in frame from head to feet throughout, without zooming, so the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts. Show only the character's physical motion and expressions. No visual effects, overlays, particles, motion blur, speed lines, impact marks, text or floating symbols. No shadow on the floor or behind her, and no floor line, wall line or other surface is drawn.\n\noverall_soundscape: Silence throughout. No dialogue, vocals, ambience or sound effects.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 192,
+  "seconds": 8.0,
+  "width": 960,
+  "height": 544,
+  "steps": 50,
+  "seed": 786734776,
+  "first_frame": "20261109-155209-918e--1--960x544-green.png",
+  "last_frame": "20261109-155209-918e--2--960x544-green.png",
+  "references": []
+}
