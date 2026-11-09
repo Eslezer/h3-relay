@@ -1,0 +1,15 @@
+{
+  "id": "20261109-155201-a48b",
+  "created": "2026-11-09T15:52:01Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 9.42-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated chibi, flat colors with a subtle paper-grain texture and thick black ink outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small chibi fox girl shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her tall white fox ears with purple insides, her chin-length white bob with blunt bangs, her purple spiral eyes and faint smile, her red tassel hair ties, her nine fluffy lavender fox tails fanned out behind her, her purple kimono with a mustard obi and red cord, her white tabi socks and dark sandals. She does this in three timed parts. From 0 to 1.7 seconds: she turns to face the left side of the frame and starts walking. From 1.7 to 7.7 seconds: she walks toward the left in a clean side view in a steady, even walk cycle, left and right feet alternating with regular strides and her arms swinging naturally. She keeps the same pace the whole time. From 7.7 to 9.4 seconds: she takes a last step, stops and turns to face the viewer, ending in exactly the pose of the base sprite. The camera tracks with her at the same speed she moves, keeping her full body centered in frame from head to feet throughout, without zooming, so the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts. Show only the character's physical motion and expressions. No visual effects, overlays, particles, motion blur, speed lines, impact marks, text or floating symbols. No shadow on the floor or behind her, and no floor line, wall line or other surface is drawn.\n\noverall_soundscape: Silence throughout. No dialogue, vocals, ambience or sound effects.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 226,
+  "seconds": 9.42,
+  "width": 960,
+  "height": 544,
+  "steps": 50,
+  "seed": 1086829760,
+  "first_frame": "20261109-155201-a48b--1--960x544-green.png",
+  "last_frame": "20261109-155201-a48b--2--960x544-green.png",
+  "references": []
+}
