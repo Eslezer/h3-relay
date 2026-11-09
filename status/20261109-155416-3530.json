@@ -1,6 +1,9 @@
 {
   "id": "20261109-155416-3530",
   "worker": "29a3e3bc-9f15-4850-bd13-21ab7f17392c-sf54w-1794239594",
-  "state": "running",
-  "started": "2026-11-09T16:45:29Z"
+  "state": "done",
+  "finished": "2026-11-09T17:13:28Z",
+  "output": "20261109-155416-3530.mp4",
+  "bytes": 1483217,
+  "batch_seconds": 1675
 }
