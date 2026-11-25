@@ -1,0 +1,15 @@
+{
+  "id": "20261125-015341-fc97",
+  "created": "2026-11-25T01:53:41Z",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated, flat colors with soft cel shading and thick clean black outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The slim, stylish young woman with a doll-like face shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her long straight glossy black hair with a teal underlayer and a thick blunt fringe just above her eyes, her half-lidded pale grey eyes and small pouty mouth, her white choker, her oversized white trench coat with wide lapels, a belted waist and buckled cuffs, worn short like a coat dress, her bare legs and her chunky white platform combat boots with straps and buckles. She turns to face the right side of the frame, reaches up and starts climbing straight upward hand over hand in side view right where she stands, hands and feet pressing flat against nothing, as if on an unseen surface. Once climbing, she keeps climbing at a steady pace for the rest of the shot. She stays exactly the same size in the frame as at the start for the whole shot. The camera rises straight up with her at exactly the speed she climbs, keeping her full body from head to feet at the same size and in the same place in the frame for the whole shot. It never zooms out or in and never pulls back, so the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts. Show only the character's physical motion and expressions. No visual effects, overlays, particles, motion blur, speed lines, impact marks, text or floating symbols. No shadow on the floor or behind her, and no floor line, wall line or other surface is drawn.\n\noverall_soundscape: Silence throughout. No dialogue, vocals, ambience or sound effects.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 158,
+  "seconds": 6.58,
+  "width": 544,
+  "height": 960,
+  "steps": 50,
+  "seed": 705087443,
+  "first_frame": "20261125-015341-fc97--1--544x960-green.png",
+  "last_frame": null,
+  "references": []
+}
