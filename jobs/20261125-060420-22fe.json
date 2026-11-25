@@ -1,0 +1,15 @@
+{
+  "id": "20261125-060420-22fe",
+  "created": "2026-11-25T06:04:20Z",
+  "prompt": "How the reference pictures align with the target video \u2014 Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 8.00-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] 2D-animated, flat colors with soft cel shading and thick clean black outlines, on a flat, evenly lit chroma-key green background, with neutral lighting on the character and no green reflections, rim light or green tint on her; the background stays exactly this same flat green for the entire shot and never changes to any other colour, texture, sky or scenery. The small, sleepy girl with a deadpan face shown in <Picture 1> appears exactly as in <Picture 1>, in the same pose and full-body framing, preserving her messy fluffy white hair with blue-grey shading and one upright ahoge, an orange arrow-cursor hair clip on the left side of her head, her half-lidded dark spiral eyes with tired dark circles under them, her small flat mouth, her oversized bright orange hoodie with dark drawstrings, a big front pocket, a cargo pocket and two white stripes on one sleeve, sleeves so long they cover her hands, her black shorts mostly hidden under the hoodie, her thin bare legs and her huge chunky black lace-up combat boots. She does this in three timed parts. From 0 to 1.4 seconds: she turns to face the left side of the frame and breaks into a run. From 1.4 to 6.6 seconds: she runs toward the left in a clean side view at a fast, steady pace in a continuous run cycle, leaning forward, arms pumping, both feet briefly leaving the ground on each stride, hair streaming behind her. She keeps the same pace the whole time. From 6.6 to 8.0 seconds: she skids to a stop, catches her breath and turns to face the viewer, ending in exactly the pose of the base sprite. The camera tracks with her at the same speed she moves, keeping her full body centered in frame from head to feet throughout, without zooming, so the plain background stays constant and empty. No other characters, objects or scenery appear, and there are no cuts. Show only the character's physical motion and expressions. No visual effects, overlays, particles, motion blur, speed lines, impact marks, text or floating symbols. No shadow on the floor or behind her, and no floor line, wall line or other surface is drawn.\n\noverall_soundscape: Silence throughout. No dialogue, vocals, ambience or sound effects.\n\nnon_diegetic_music: N/A",
+  "mode": "fl2va",
+  "num_frames": 192,
+  "seconds": 8.0,
+  "width": 960,
+  "height": 544,
+  "steps": 50,
+  "seed": 708951744,
+  "first_frame": "20261125-060420-22fe--1--960x544-green.png",
+  "last_frame": "20261125-060420-22fe--2--960x544-green.png",
+  "references": []
+}
